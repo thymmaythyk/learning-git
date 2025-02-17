@@ -1,0 +1,8 @@
+.secrets
+.vscode
+__pychache__
+.env
+.vscode
+*.txt
+good_afternoon
+good-night
